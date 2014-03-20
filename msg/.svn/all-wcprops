@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/msg
+END
+Bisectrix.msg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/msg/Bisectrix.msg
+END
+CarCommand.msg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/msg/CarCommand.msg
+END
+BorderLines.msg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/msg/BorderLines.msg
+END

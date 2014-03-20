@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project
+END
+ransac_2Dline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project/ransac_2Dline.hpp
+END
+ransac_classes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project/ransac_classes.hpp
+END
+svd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project/svd.hpp
+END
+ransac_lib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project/ransac_lib.hpp
+END
+control.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/VERO/!svn/ver/1121/trunk/implementacao/fontes/catkin_ws/src/ransac_project/include/ransac_project/control.hpp
+END
